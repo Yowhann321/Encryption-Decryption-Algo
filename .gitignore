@@ -1,0 +1,17 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+bin/
+obj/
+
+# Python
+__pycache__/
+*.pyc
+
+# Build output (PyInstaller)
+output/
+build/
+dist/
+*.exe
+*.spec
